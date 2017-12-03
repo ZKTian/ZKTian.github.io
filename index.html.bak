@@ -8,6 +8,13 @@
         </style>
 	</head>
 <body >
+<script>
+function changetext()
+{
+
+}
+</script>
+<a herf="html/new_file.html">ZKT的主页</a>
 <h1>一人 我饮酒醉<br/>
 醉把佳人成双对<br/>
 两眼 是独相随<br/>
